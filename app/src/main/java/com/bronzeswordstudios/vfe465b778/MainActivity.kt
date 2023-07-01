@@ -18,7 +18,7 @@ import java.lang.ref.WeakReference
 
 class MainActivity : AppCompatActivity() {
 
-    //--------------------------- Begin Global Declarations   ---------------------------//
+    //--------------------------- Begin Global Declarations ---------------------------//
     private lateinit var binding: ActivityMainBinding
     private lateinit var viewModel: MainViewModel
     private lateinit var notification: NotificationCompat.Builder
